@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hermes-vito-pages/static/css/main.dc3f477a.css",
+    "main.js": "/hermes-vito-pages/static/js/main.4c16d093.js",
+    "static/js/787.01314d76.chunk.js": "/hermes-vito-pages/static/js/787.01314d76.chunk.js",
+    "index.html": "/hermes-vito-pages/index.html",
+    "main.dc3f477a.css.map": "/hermes-vito-pages/static/css/main.dc3f477a.css.map",
+    "main.4c16d093.js.map": "/hermes-vito-pages/static/js/main.4c16d093.js.map",
+    "787.01314d76.chunk.js.map": "/hermes-vito-pages/static/js/787.01314d76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc3f477a.css",
+    "static/js/main.4c16d093.js"
+  ]
+}
