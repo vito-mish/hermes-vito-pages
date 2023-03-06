@@ -1,0 +1,7 @@
+.body {
+  background-color: #ffffff;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 24px 24px 0px 24px;
+}
