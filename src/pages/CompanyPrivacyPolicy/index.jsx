@@ -1,8 +1,20 @@
+import { useCallback } from 'react';
+import { useNavigate } from 'react-router-dom';
+import logo from '../../assets/images/icon_back.png'
 import './index.css'
 
 export const CompanyPrivacyPolicyPage = () => {
+  const navigate = useNavigate()
+
+  const handleGoBack = useCallback(() => {
+    navigate('..')
+  }, [navigate])
+
   return (
-    <div className='body'>
+    <div className='container'>
+      <div style={{ padding: 8 }} onClick={handleGoBack}>
+        <img src={logo} width={16} height={16} alt="back" />
+      </div>
       <p style={{ textAlign: 'left', fontSize: '14px' }}>
           隱私權政策<br /><br />
           感謝您使用本網站。我們非常重視您的隱私權，並將致力於保護您的個人資料。本隱私權政策旨在告知您有關我們的網站及其使用方式的信息，而不會涉及任何個人資料的蒐集、使用或共享。
