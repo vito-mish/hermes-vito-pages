@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/hermes-vito-pages/static/css/main.4e7c07ad.css",
-    "main.js": "/hermes-vito-pages/static/js/main.ce692440.js",
-    "index.html": "/hermes-vito-pages/index.html",
-    "main.4e7c07ad.css.map": "/hermes-vito-pages/static/css/main.4e7c07ad.css.map",
-    "main.ce692440.js.map": "/hermes-vito-pages/static/js/main.ce692440.js.map"
+    "main.css": "/static/css/main.4e7c07ad.css",
+    "main.js": "/static/js/main.ce692440.js",
+    "index.html": "/index.html",
+    "main.4e7c07ad.css.map": "/static/css/main.4e7c07ad.css.map",
+    "main.ce692440.js.map": "/static/js/main.ce692440.js.map"
   },
   "entrypoints": [
     "static/css/main.4e7c07ad.css",
